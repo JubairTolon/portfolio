@@ -1,0 +1,43 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+    text-align: justify;
+    padding-bottom: 15px;
+}
+.spanColor{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding: 20px 30px;
+}
+.half-width img{
+    margin: 80px 80px;
+    width: 50%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
+.top-banner{
+    background-image: url(/image/d-2.jpg);
+}
