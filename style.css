@@ -19,7 +19,7 @@ p{
 .spanColor{
     color: orange;
 }
-section{
+.flex-container{
     display: flex;
     padding: 50px;
 }
@@ -57,4 +57,13 @@ section{
     background-size: 250px;
     background-position: right;
     background-position-y: 200px;
+}
+.h1-xp{
+    color: black;
+}
+.h3-xp{
+    color: black;
+}
+.p-xp{
+    color: black;
 }
