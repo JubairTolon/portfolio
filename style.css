@@ -58,12 +58,42 @@ p{
     background-position: right;
     background-position-y: 200px;
 }
+.experience{
+    background-image: url(/image/Lovepik.png);
+    background-repeat: no-repeat;
+    background-size: 250px;
+    background-position: left;
+    background-position-y: 250px;
+
+}
 .h1-xp{
     color: black;
 }
 .h3-xp{
-    color: black;
+    color: orange;
 }
 .p-xp{
+    color: black;
+}
+
+.expItems{
+    text-align: justify;
+    padding: 40px;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 40%;
+    box-shadow: 10px 10px 70px gray;
+    border-radius: 10px;
+    border-left: 10px linear-gradient(orange, tomato);
+}
+#expItemsId{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
+.f{
     color: black;
 }
